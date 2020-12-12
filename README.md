@@ -1,7 +1,6 @@
 # Trabalho Pratico de Computação Movel - UFMT
 
 Disciplina: Computação Movel
-Docente: Daniel Avila Vecchiato
 
 O aplicativo é simples e a ideia é propor jogos de 6 números da Mega-Sena ao usuário do aplicativo. O aplicativo deve:
 
